@@ -3,7 +3,8 @@
 This repository contains my **Power BI dashboard project** built on the **AdventureWorks Bike Store dataset**. The dashboard provides a complete sales analysis with interactive visuals, filters, and KPIs tailored for decision-making.  
 
 📽️ **Demo Video:**  
-<video src="assets/video.mp4" controls width="700"></video>  
+
+[Demo Video Link](https://www.linkedin.com/posts/mudassiria_powerbi-datavisualization-dashboarddesign-activity-7343557081909592064-MaTL)
 
 ---
 
